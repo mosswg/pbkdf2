@@ -1,0 +1,3 @@
+[submodule "SHA1_HMAC"]
+	path = SHA1_HMAC
+	url = https://github.com/mossx-dev/SHA1_HMAC
